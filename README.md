@@ -26,7 +26,7 @@ You need to download the Educational Software folder
 3. Navigate to where is the Educational software folder is located and Select it
 4. Run the project using the green arrow at the top.
 
-##Screen Shots
+## Screen Shots
 
 
 
