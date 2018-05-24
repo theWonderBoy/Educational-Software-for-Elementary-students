@@ -13,3 +13,7 @@
 ![capture](https://user-images.githubusercontent.com/18225695/40517989-29da7bd8-5f86-11e8-8908-83a2d432e2aa.PNG)
 ![way out of labyrinth](https://user-images.githubusercontent.com/18225695/40517991-2c6b6d80-5f86-11e8-87f2-628db09209d3.PNG)
 ![play](https://user-images.githubusercontent.com/18225695/40517996-2df8a974-5f86-11e8-8315-135413782386.PNG)
+
+![5png](https://user-images.githubusercontent.com/18225695/40518038-6074f4d4-5f86-11e8-9a56-3b8cdeb1b220.PNG)
+![short answer](https://user-images.githubusercontent.com/18225695/40518039-60830df8-5f86-11e8-801c-42e01d2f652d.PNG)
+
