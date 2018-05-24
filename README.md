@@ -1,6 +1,6 @@
 # Educational-Software-for-Elementary-students
 
-One Paragraph of project description goes here
+The goal of the software is to help teachers to create MCQ and short answers questions. The software includes a way out of labyrinth game which has a level creation feature.
 
 ## Getting Started
 
@@ -18,8 +18,15 @@ NetBeans
 
 [A step by step series who to get netbeans up and running](https://www.ntu.edu.sg/home/ehchua/programming/howto/NetBeans_HowTo.html)
 
+## Deployment
 
+You need to download the Educational Software folder
+1. Open NetBeans
+2. Select File -> Open Project
+3. Navigate to where is the Educational software folder is located and Select it
+4. Run the project using the green arrow at the top.
 
+##Screen Shots
 
 
 
