@@ -16,7 +16,7 @@ NetBeans
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development [env running](https://www.ntu.edu.sg/home/ehchua/programming/howto/NetBeans_HowTo.html)
+[A step by step series who to get netbeans up and running](https://www.ntu.edu.sg/home/ehchua/programming/howto/NetBeans_HowTo.html)
 
 
 
